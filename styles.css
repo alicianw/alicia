@@ -1,9 +1,15 @@
-body, html{
-    height: 50%;
-    margin: 0%;
-    }
+ul{
+     list-style-type: none;
+    /* margin: 2;
+    padding: 2; */
+    /* display: inline ; */
+    display: flex;
+    justify-content:flex-end;
+    padding: ;
+} 
 
-    .bg{
-        background-image: url("/home/alicia/Pictures/IMG-20191012-WA0011.jpg");
-        height: 50%;
-    }
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}

@@ -1,0 +1,9 @@
+body, html{
+    height: 50%;
+    margin: 0%;
+    }
+
+    .bg{
+        background-image: url("/home/alicia/Pictures/IMG-20191012-WA0011.jpg");
+        height: 50%;
+    }

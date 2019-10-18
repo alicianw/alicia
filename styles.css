@@ -1,3 +1,8 @@
+*{
+margin:0%;
+padding: 0%;
+}
+
 ul{
      list-style-type: none;
     /* margin: 2;
@@ -5,17 +10,26 @@ ul{
     /* display: inline ; */
     display: flex;
     justify-content:flex-end;
-    padding: ;
+    padding:20px ;
+
 } 
 
 nav ul li a{
     text-decoration: none;
     color: black;
-    padding: 10px;
+    padding: 20px;
 }
 
 h1{
     text-align: center;
     font-style: unset;
     font-size: xx-large;
+}
+
+nav ul {
+    background-image:url("/home/alicia/Downloads/image4")
+}
+
+image {
+    text-align: center;
 }

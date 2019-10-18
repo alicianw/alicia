@@ -3,7 +3,7 @@ margin:0%;
 padding: 0%;
 }
 
-ul{
+#nav{
      list-style-type: none;
     /* margin: 2;
     padding: 2; */
@@ -42,4 +42,25 @@ img {
 
   h2{
       font-style: italic;
+      color: rgb(255, 105, 168);
+      padding-left: 1%;
   }
+  
+  p{
+      padding-left: 1%;
+      font-size: 20px;
+      font-style: inherit;
+  }
+
+  li {
+      padding-left: 2%;
+      font-size: 19px;
+      font-style: italic;
+  }
+  
+ #tea {
+         text-align: center ;
+         font-size: 30px;
+         font-style: oblique;
+         color: rgb(233, 20, 66);
+}
